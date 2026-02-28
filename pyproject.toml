@@ -1,5 +1,5 @@
 [project]
-name = "fourwhats_net"
+name = "four_whats_net"
 authors = [
     { name = "hts-qatar", email = "azim@htsqatar.com" }
 ]
